@@ -1,0 +1,1001 @@
+﻿NPI,State,Usage Time (mins),Region,Speciality,Count of Survey Attempts,Login Time,Logout Time
+1000000000,NY,19,Northeast,Cardiology,3,6:09,6:28
+1000000001,MI,42,Midwest,Oncology,5,12:28,1:10
+1000000002,CA,26,West,Oncology,8,3:11,3:37
+1000000003,TX,79,Northeast,Orthopedics,9,2:17,3:36
+1000000004,GA,98,West,Oncology,0,3:59,5:37
+1000000005,IL,116,Midwest,Orthopedics,10,11:41,1:37
+1000000006,TX,47,Midwest,Cardiology,6,11:33,12:20
+1000000007,TX,98,West,General Practice,6,4:37,6:15
+1000000008,NC,28,Northeast,Pediatrics,8,6:54,7:22
+1000000009,PA,19,West,Neurology,10,1:42,2:01
+1000000010,OH,16,South,Orthopedics,1,3:05,3:21
+1000000011,IL,96,Midwest,General Practice,10,12:22,1:58
+1000000012,NY,75,Midwest,Orthopedics,5,2:31,3:46
+1000000013,CA,45,West,Oncology,10,12:21,1:06
+1000000014,CA,20,South,Radiology,2,1:05,1:25
+1000000015,OH,111,West,General Practice,2,11:26,1:17
+1000000016,GA,93,Midwest,Cardiology,9,11:20,12:53
+1000000017,MI,81,Northeast,Radiology,8,8:10,9:31
+1000000018,TX,6,Midwest,General Practice,5,12:23,12:29
+1000000019,CA,55,West,Orthopedics,0,12:34,1:29
+1000000020,TX,12,South,Cardiology,4,2:21,2:33
+1000000021,PA,11,West,Neurology,0,7:06,7:17
+1000000022,OH,108,Northeast,Oncology,7,1:34,3:22
+1000000023,PA,118,Midwest,Oncology,4,6:55,8:53
+1000000024,IL,76,West,Radiology,7,7:08,8:24
+1000000025,NY,36,Northeast,Neurology,1,11:05,11:41
+1000000026,OH,17,West,General Practice,7,4:12,4:29
+1000000027,GA,91,Northeast,Neurology,1,10:39,12:10
+1000000028,IL,13,West,General Practice,9,3:54,4:07
+1000000029,FL,109,South,Cardiology,7,6:05,7:54
+1000000030,NY,28,Midwest,Cardiology,2,1:58,2:26
+1000000031,NC,112,South,Oncology,10,8:10,10:02
+1000000032,OH,94,South,Oncology,3,1:21,2:55
+1000000033,MI,73,Midwest,Neurology,3,9:52,11:05
+1000000034,CA,55,Northeast,Pediatrics,7,2:39,3:34
+1000000035,GA,118,Northeast,Orthopedics,5,6:43,8:41
+1000000036,MI,93,West,Cardiology,1,7:35,9:08
+1000000037,MI,105,Midwest,Neurology,9,1:41,3:26
+1000000038,IL,93,West,Pediatrics,2,4:39,6:12
+1000000039,PA,62,South,Orthopedics,7,8:41,9:43
+1000000040,NC,12,South,Radiology,10,2:42,2:54
+1000000041,PA,48,Northeast,Radiology,6,3:14,4:02
+1000000042,CA,11,West,Oncology,6,6:32,6:43
+1000000043,PA,40,West,General Practice,1,10:14,10:54
+1000000044,IL,48,South,Pediatrics,9,10:02,10:50
+1000000045,GA,23,South,General Practice,1,10:18,10:41
+1000000046,NY,27,Northeast,Pediatrics,0,8:34,9:01
+1000000047,OH,61,Northeast,Radiology,6,9:05,10:06
+1000000048,IL,37,South,Radiology,9,8:00,8:37
+1000000049,PA,95,West,Radiology,9,5:43,7:18
+1000000050,TX,31,South,Cardiology,8,7:46,8:17
+1000000051,NY,94,West,Oncology,5,7:59,9:33
+1000000052,TX,34,Northeast,Pediatrics,4,9:48,10:22
+1000000053,TX,99,West,Cardiology,0,8:34,10:13
+1000000054,GA,112,Northeast,Cardiology,0,7:36,9:28
+1000000055,FL,104,Midwest,Oncology,3,12:54,2:38
+1000000056,TX,95,Midwest,Pediatrics,6,10:51,12:26
+1000000057,PA,82,Midwest,Pediatrics,5,9:45,11:07
+1000000058,FL,27,Midwest,Radiology,3,7:36,8:03
+1000000059,NC,77,Northeast,Pediatrics,6,9:34,10:51
+1000000060,OH,101,South,Orthopedics,6,5:51,7:32
+1000000061,CA,104,Midwest,General Practice,6,7:42,9:26
+1000000062,NC,120,South,Neurology,6,7:46,9:46
+1000000063,PA,45,Midwest,Neurology,7,12:27,1:12
+1000000064,MI,25,West,Radiology,0,5:05,5:30
+1000000065,FL,45,Northeast,Oncology,1,12:10,12:55
+1000000066,CA,109,Midwest,General Practice,8,8:44,10:33
+1000000067,MI,25,Northeast,Orthopedics,8,9:03,9:28
+1000000068,OH,41,Midwest,Oncology,0,12:02,12:43
+1000000069,MI,8,South,Pediatrics,7,7:07,7:15
+1000000070,PA,119,Midwest,Orthopedics,8,1:29,3:28
+1000000071,TX,42,South,Cardiology,3,8:24,9:06
+1000000072,GA,10,Northeast,Orthopedics,7,8:21,8:31
+1000000073,NY,60,Midwest,Orthopedics,1,6:49,7:49
+1000000074,MI,62,Midwest,Oncology,7,6:20,7:22
+1000000075,NC,18,Northeast,Neurology,9,6:27,6:45
+1000000076,GA,41,Northeast,Neurology,10,10:08,10:49
+1000000077,IL,112,Midwest,Neurology,8,2:20,4:12
+1000000078,NY,36,Northeast,Oncology,5,6:21,6:57
+1000000079,OH,7,Northeast,Cardiology,1,2:01,2:08
+1000000080,OH,46,South,Orthopedics,5,7:09,7:55
+1000000081,GA,97,Northeast,Pediatrics,6,9:01,10:38
+1000000082,NC,9,South,Neurology,8,5:44,5:53
+1000000083,NC,18,Northeast,General Practice,8,3:04,3:22
+1000000084,FL,65,South,Orthopedics,6,12:07,1:12
+1000000085,FL,114,West,Cardiology,9,2:04,3:58
+1000000086,PA,84,West,General Practice,5,1:26,2:50
+1000000087,MI,72,Midwest,Neurology,6,7:05,8:17
+1000000088,NC,9,South,Oncology,4,4:07,4:16
+1000000089,IL,86,South,Orthopedics,9,4:21,5:47
+1000000090,IL,92,South,Orthopedics,6,6:53,8:25
+1000000091,FL,41,Midwest,Neurology,1,3:28,4:09
+1000000092,OH,106,Midwest,Pediatrics,4,2:05,3:51
+1000000093,GA,17,West,Radiology,3,6:08,6:25
+1000000094,IL,35,South,Radiology,9,9:31,10:06
+1000000095,FL,8,West,Orthopedics,9,8:12,8:20
+1000000096,OH,69,West,Neurology,9,6:55,8:04
+1000000097,GA,80,West,Neurology,0,7:28,8:48
+1000000098,FL,49,West,Oncology,1,1:18,2:07
+1000000099,IL,21,Midwest,Cardiology,1,7:43,8:04
+1000000100,MI,112,South,Oncology,0,6:07,7:59
+1000000101,GA,47,West,General Practice,7,9:03,9:50
+1000000102,MI,114,Midwest,Orthopedics,4,3:03,4:57
+1000000103,NY,104,Midwest,General Practice,2,10:57,12:41
+1000000104,TX,56,West,Cardiology,9,3:42,4:38
+1000000105,IL,27,West,Orthopedics,10,12:45,1:12
+1000000106,IL,60,West,Oncology,9,9:52,10:52
+1000000107,PA,116,South,Orthopedics,9,11:43,1:39
+1000000108,IL,16,West,Radiology,7,3:11,3:27
+1000000109,TX,103,Midwest,Pediatrics,8,1:44,3:27
+1000000110,FL,107,Northeast,Radiology,6,4:00,5:47
+1000000111,OH,15,Midwest,Radiology,0,7:19,7:34
+1000000112,NY,32,West,Oncology,2,7:57,8:29
+1000000113,IL,43,Midwest,Oncology,8,7:03,7:46
+1000000114,MI,52,Midwest,Pediatrics,0,7:00,7:52
+1000000115,PA,104,South,Neurology,6,6:57,8:41
+1000000116,TX,47,Midwest,General Practice,6,12:48,1:35
+1000000117,TX,94,Midwest,Radiology,5,8:42,10:16
+1000000118,PA,31,Northeast,General Practice,8,9:14,9:45
+1000000119,CA,90,Northeast,Oncology,8,9:43,11:13
+1000000120,MI,107,South,Orthopedics,8,10:41,12:28
+1000000121,IL,87,South,Neurology,1,5:36,7:03
+1000000122,GA,100,Midwest,Oncology,1,12:14,1:54
+1000000123,CA,37,Northeast,Cardiology,9,6:15,6:52
+1000000124,FL,12,West,Radiology,8,9:43,9:55
+1000000125,TX,105,South,Orthopedics,10,9:25,11:10
+1000000126,IL,60,Midwest,Neurology,8,6:28,7:28
+1000000127,MI,76,Northeast,Radiology,9,6:18,7:34
+1000000128,OH,87,Midwest,Orthopedics,2,7:29,8:56
+1000000129,TX,15,South,Neurology,9,6:58,7:13
+1000000130,MI,19,South,Cardiology,10,10:00,10:19
+1000000131,CA,107,South,Pediatrics,6,9:00,10:47
+1000000132,TX,113,Midwest,Orthopedics,6,8:53,10:46
+1000000133,CA,30,West,Radiology,6,7:46,8:16
+1000000134,NC,96,South,Radiology,9,7:23,8:59
+1000000135,MI,36,Northeast,Orthopedics,5,8:51,9:27
+1000000136,CA,27,West,Pediatrics,10,5:30,5:57
+1000000137,CA,70,South,Oncology,7,8:16,9:26
+1000000138,TX,56,Midwest,Radiology,0,7:15,8:11
+1000000139,FL,108,South,Oncology,2,8:46,10:34
+1000000140,FL,54,Midwest,Neurology,8,7:20,8:14
+1000000141,MI,9,South,General Practice,6,2:50,2:59
+1000000142,PA,65,Northeast,Oncology,4,7:15,8:20
+1000000143,NY,113,South,Pediatrics,9,1:18,3:11
+1000000144,OH,16,Northeast,Orthopedics,1,7:28,7:44
+1000000145,IL,89,Midwest,Orthopedics,8,8:51,10:20
+1000000146,NY,78,Northeast,General Practice,9,8:58,10:16
+1000000147,CA,74,West,Radiology,3,11:04,12:18
+1000000148,NY,52,South,Neurology,10,8:50,9:42
+1000000149,OH,77,Northeast,Orthopedics,4,5:00,6:17
+1000000150,CA,104,Midwest,Oncology,8,6:22,8:06
+1000000151,MI,34,Northeast,General Practice,5,7:09,7:43
+1000000152,MI,62,Northeast,Orthopedics,6,11:56,12:58
+1000000153,CA,31,West,General Practice,1,6:08,6:39
+1000000154,IL,99,South,Pediatrics,1,8:59,10:38
+1000000155,GA,78,West,Radiology,1,2:24,3:42
+1000000156,IL,5,South,Pediatrics,10,10:53,10:58
+1000000157,OH,74,West,Pediatrics,5,9:53,11:07
+1000000158,MI,30,South,Pediatrics,0,10:19,10:49
+1000000159,IL,91,West,Pediatrics,2,12:54,2:25
+1000000160,MI,84,South,Cardiology,2,5:03,6:27
+1000000161,GA,7,Midwest,Pediatrics,5,7:23,7:30
+1000000162,GA,92,West,Radiology,9,1:40,3:12
+1000000163,NC,33,Midwest,Cardiology,8,4:55,5:28
+1000000164,PA,6,Northeast,Cardiology,6,5:23,5:29
+1000000165,GA,114,West,Orthopedics,0,8:35,10:29
+1000000166,MI,92,Midwest,Cardiology,4,9:22,10:54
+1000000167,FL,113,West,Radiology,3,1:04,2:57
+1000000168,GA,116,Northeast,Pediatrics,6,3:59,5:55
+1000000169,CA,60,West,Cardiology,0,6:51,7:51
+1000000170,TX,46,Northeast,Neurology,7,6:10,6:56
+1000000171,PA,47,West,Neurology,0,6:03,6:50
+1000000172,NY,30,Midwest,Pediatrics,8,9:34,10:04
+1000000173,NY,10,Midwest,Cardiology,9,3:35,3:45
+1000000174,TX,116,Midwest,Neurology,1,5:31,7:27
+1000000175,OH,45,South,Pediatrics,1,8:57,9:42
+1000000176,IL,23,Northeast,Oncology,6,3:43,4:06
+1000000177,FL,65,West,General Practice,5,6:53,7:58
+1000000178,MI,110,South,Pediatrics,5,6:41,8:31
+1000000179,OH,50,Northeast,General Practice,3,12:24,1:14
+1000000180,TX,70,Northeast,Cardiology,9,8:24,9:34
+1000000181,CA,103,Northeast,Radiology,1,7:40,9:23
+1000000182,CA,25,South,Cardiology,7,8:22,8:47
+1000000183,GA,97,West,Pediatrics,6,1:08,2:45
+1000000184,IL,80,Northeast,Orthopedics,9,12:00,1:20
+1000000185,GA,24,Midwest,Pediatrics,2,12:35,12:59
+1000000186,CA,103,Midwest,Oncology,8,9:44,11:27
+1000000187,IL,114,Midwest,Oncology,8,12:31,2:25
+1000000188,MI,73,Midwest,Oncology,5,8:48,10:01
+1000000189,OH,102,Northeast,General Practice,6,12:28,2:10
+1000000190,PA,103,West,General Practice,0,6:52,8:35
+1000000191,PA,118,West,General Practice,9,6:44,8:42
+1000000192,NY,41,Northeast,Orthopedics,10,1:08,1:49
+1000000193,FL,86,Midwest,Orthopedics,6,1:06,2:32
+1000000194,IL,110,West,Pediatrics,7,8:52,10:42
+1000000195,OH,78,South,Pediatrics,3,8:43,10:01
+1000000196,NY,74,South,General Practice,1,5:26,6:40
+1000000197,GA,83,Northeast,General Practice,7,9:46,11:09
+1000000198,FL,74,Midwest,Pediatrics,1,8:39,9:53
+1000000199,PA,59,West,Cardiology,0,3:48,4:47
+1000000200,IL,51,West,Oncology,1,6:47,7:38
+1000000201,FL,44,South,Neurology,3,3:34,4:18
+1000000202,CA,117,Northeast,Oncology,8,5:56,7:53
+1000000203,MI,80,Northeast,Pediatrics,5,11:08,12:28
+1000000204,TX,7,Northeast,General Practice,10,1:42,1:49
+1000000205,MI,94,South,Cardiology,1,2:54,4:28
+1000000206,NY,55,Northeast,Orthopedics,6,6:16,7:11
+1000000207,OH,22,South,Orthopedics,8,2:56,3:18
+1000000208,IL,106,Northeast,General Practice,10,3:33,5:19
+1000000209,OH,19,South,Neurology,10,7:02,7:21
+1000000210,PA,93,West,Orthopedics,3,11:34,1:07
+1000000211,MI,114,South,Oncology,0,11:12,1:06
+1000000212,PA,101,South,General Practice,6,5:56,7:37
+1000000213,NC,111,Northeast,Radiology,0,5:03,6:54
+1000000214,CA,93,Midwest,Cardiology,3,8:03,9:36
+1000000215,FL,43,Northeast,Cardiology,7,4:56,5:39
+1000000216,OH,74,South,Neurology,6,6:28,7:42
+1000000217,NC,39,South,Pediatrics,3,8:34,9:13
+1000000218,GA,26,West,Neurology,6,12:49,1:15
+1000000219,CA,55,Midwest,Cardiology,7,7:19,8:14
+1000000220,CA,62,West,Orthopedics,4,12:56,1:58
+1000000221,MI,57,West,General Practice,10,4:26,5:23
+1000000222,CA,60,Midwest,Cardiology,8,4:56,5:56
+1000000223,CA,57,West,Orthopedics,4,8:49,9:46
+1000000224,CA,103,West,Pediatrics,0,7:19,9:02
+1000000225,TX,94,Northeast,Pediatrics,7,12:53,2:27
+1000000226,TX,93,Midwest,Neurology,8,3:49,5:22
+1000000227,IL,115,West,Orthopedics,4,9:06,11:01
+1000000228,NY,48,Northeast,Pediatrics,6,10:59,11:47
+1000000229,CA,70,Midwest,Pediatrics,3,6:23,7:33
+1000000230,TX,93,South,Cardiology,9,6:45,8:18
+1000000231,PA,92,Midwest,Radiology,3,2:37,4:09
+1000000232,NC,7,Midwest,Cardiology,0,9:51,9:58
+1000000233,OH,48,South,General Practice,0,10:54,11:42
+1000000234,NY,17,Midwest,Pediatrics,10,9:02,9:19
+1000000235,FL,19,West,Cardiology,4,8:40,8:59
+1000000236,MI,40,Midwest,Neurology,9,6:11,6:51
+1000000237,NY,118,West,Orthopedics,9,3:38,5:36
+1000000238,PA,81,West,Cardiology,7,8:00,9:21
+1000000239,CA,36,Midwest,Cardiology,4,10:33,11:09
+1000000240,NY,30,Northeast,Cardiology,7,7:27,7:57
+1000000241,NC,83,Northeast,General Practice,0,4:31,5:54
+1000000242,CA,37,Midwest,Orthopedics,3,8:18,8:55
+1000000243,MI,90,West,Cardiology,0,7:35,9:05
+1000000244,CA,75,Northeast,Cardiology,6,12:16,1:31
+1000000245,FL,35,Midwest,Neurology,2,3:53,4:28
+1000000246,FL,9,Midwest,Oncology,3,5:22,5:31
+1000000247,IL,73,Midwest,Oncology,0,12:28,1:41
+1000000248,FL,71,West,Cardiology,6,5:39,6:50
+1000000249,PA,72,South,Pediatrics,8,2:49,4:01
+1000000250,IL,21,South,General Practice,9,7:05,7:26
+1000000251,NC,103,South,Neurology,4,8:09,9:52
+1000000252,NY,47,South,Orthopedics,6,7:52,8:39
+1000000253,TX,85,Midwest,General Practice,3,2:39,4:04
+1000000254,OH,66,Midwest,Neurology,4,10:25,11:31
+1000000255,CA,62,Midwest,Oncology,5,2:59,4:01
+1000000256,OH,105,West,Cardiology,2,5:12,6:57
+1000000257,MI,6,Northeast,Cardiology,9,3:20,3:26
+1000000258,CA,56,Northeast,Orthopedics,6,8:31,9:27
+1000000259,CA,102,South,Neurology,3,8:25,10:07
+1000000260,NY,44,Northeast,Oncology,4,3:21,4:05
+1000000261,TX,69,Northeast,General Practice,5,12:16,1:25
+1000000262,OH,29,South,General Practice,6,7:58,8:27
+1000000263,FL,8,West,Oncology,7,5:52,6:00
+1000000264,FL,119,South,Radiology,3,2:38,4:37
+1000000265,MI,85,West,Neurology,6,5:22,6:47
+1000000266,GA,98,West,Pediatrics,7,11:46,1:24
+1000000267,IL,58,Midwest,Oncology,7,7:39,8:37
+1000000268,PA,92,South,Pediatrics,4,11:49,1:21
+1000000269,NY,8,Midwest,Orthopedics,3,12:54,1:02
+1000000270,OH,89,Midwest,General Practice,2,8:32,10:01
+1000000271,PA,69,West,Neurology,3,4:42,5:51
+1000000272,CA,97,Midwest,Pediatrics,9,1:35,3:12
+1000000273,GA,43,South,Orthopedics,7,9:18,10:01
+1000000274,FL,65,Midwest,Radiology,7,4:12,5:17
+1000000275,OH,76,Northeast,Pediatrics,10,6:27,7:43
+1000000276,OH,92,Midwest,Radiology,4,9:06,10:38
+1000000277,CA,106,West,Oncology,6,11:31,1:17
+1000000278,TX,61,West,Neurology,1,6:35,7:36
+1000000279,NY,6,South,Pediatrics,4,1:34,1:40
+1000000280,PA,51,West,Oncology,5,12:50,1:41
+1000000281,IL,42,South,Orthopedics,7,8:18,9:00
+1000000282,TX,72,Midwest,Cardiology,2,6:20,7:32
+1000000283,FL,51,Midwest,Orthopedics,8,9:02,9:53
+1000000284,NC,49,West,General Practice,8,7:08,7:57
+1000000285,CA,40,South,Orthopedics,7,8:08,8:48
+1000000286,TX,116,Midwest,General Practice,9,6:33,8:29
+1000000287,CA,20,West,Radiology,9,6:23,6:43
+1000000288,NC,104,South,Oncology,10,11:54,1:38
+1000000289,PA,23,South,Neurology,6,1:37,2:00
+1000000290,IL,58,Northeast,Oncology,9,11:42,12:40
+1000000291,MI,111,Northeast,Oncology,5,12:28,2:19
+1000000292,FL,9,Midwest,Pediatrics,5,7:21,7:30
+1000000293,FL,93,Midwest,Neurology,0,4:12,5:45
+1000000294,IL,49,Northeast,Oncology,2,6:13,7:02
+1000000295,NC,13,Northeast,Oncology,10,6:39,6:52
+1000000296,CA,22,West,Orthopedics,3,10:54,11:16
+1000000297,FL,53,Midwest,Cardiology,3,1:55,2:48
+1000000298,CA,66,Midwest,Radiology,9,2:05,3:11
+1000000299,NY,12,Northeast,Oncology,4,12:36,12:48
+1000000300,GA,43,Northeast,Radiology,6,1:18,2:01
+1000000301,TX,30,Northeast,General Practice,0,8:46,9:16
+1000000302,TX,72,Northeast,Cardiology,7,6:56,8:08
+1000000303,FL,79,South,Neurology,3,4:50,6:09
+1000000304,PA,65,Midwest,Pediatrics,5,7:48,8:53
+1000000305,NY,71,West,Cardiology,1,8:46,9:57
+1000000306,GA,37,Midwest,Pediatrics,1,3:55,4:32
+1000000307,FL,11,Midwest,General Practice,1,2:12,2:23
+1000000308,PA,90,South,Neurology,1,8:13,9:43
+1000000309,MI,45,West,Cardiology,0,5:24,6:09
+1000000310,FL,18,South,Cardiology,5,7:38,7:56
+1000000311,PA,58,West,Cardiology,7,12:56,1:54
+1000000312,IL,75,Midwest,Radiology,4,2:55,4:10
+1000000313,NC,39,Midwest,Pediatrics,8,6:21,7:00
+1000000314,NY,54,Midwest,General Practice,4,4:35,5:29
+1000000315,OH,52,Northeast,Oncology,0,7:06,7:58
+1000000316,MI,60,West,Oncology,6,6:03,7:03
+1000000317,MI,48,South,Radiology,10,6:45,7:33
+1000000318,GA,47,Midwest,Cardiology,1,12:21,1:08
+1000000319,NC,84,West,General Practice,8,4:20,5:44
+1000000320,CA,22,West,Neurology,1,3:49,4:11
+1000000321,OH,51,Northeast,Radiology,0,5:13,6:04
+1000000322,CA,82,Midwest,Orthopedics,1,6:05,7:27
+1000000323,MI,118,South,Pediatrics,3,9:00,10:58
+1000000324,TX,93,West,Radiology,2,10:33,12:06
+1000000325,NC,107,South,Oncology,8,3:15,5:02
+1000000326,CA,74,Midwest,General Practice,9,2:12,3:26
+1000000327,TX,24,West,Cardiology,8,3:09,3:33
+1000000328,TX,48,South,Oncology,0,2:35,3:23
+1000000329,MI,113,West,Neurology,3,10:06,11:59
+1000000330,TX,76,Midwest,Radiology,3,1:05,2:21
+1000000331,PA,48,South,Cardiology,5,9:11,9:59
+1000000332,TX,91,South,General Practice,10,6:10,7:41
+1000000333,TX,87,Northeast,Cardiology,7,8:03,9:30
+1000000334,PA,114,South,Radiology,9,8:34,10:28
+1000000335,OH,85,Midwest,Neurology,8,3:16,4:41
+1000000336,FL,56,South,Pediatrics,6,10:04,11:00
+1000000337,NC,73,West,Radiology,2,7:30,8:43
+1000000338,TX,118,South,Cardiology,4,6:44,8:42
+1000000339,NY,71,Midwest,Cardiology,5,5:25,6:36
+1000000340,TX,88,South,Cardiology,2,3:45,5:13
+1000000341,IL,119,South,Orthopedics,1,12:20,2:19
+1000000342,NY,77,Midwest,Neurology,2,1:48,3:05
+1000000343,MI,67,Northeast,Cardiology,9,12:41,1:48
+1000000344,CA,38,South,Radiology,1,1:06,1:44
+1000000345,TX,81,Midwest,General Practice,10,7:05,8:26
+1000000346,CA,92,Northeast,Cardiology,6,8:17,9:49
+1000000347,PA,15,South,Oncology,0,7:17,7:32
+1000000348,CA,8,Northeast,Pediatrics,4,8:04,8:12
+1000000349,MI,39,Northeast,Neurology,1,1:41,2:20
+1000000350,CA,28,Northeast,Orthopedics,2,6:28,6:56
+1000000351,NC,16,Northeast,Radiology,7,11:56,12:12
+1000000352,NY,97,Midwest,Pediatrics,5,9:41,11:18
+1000000353,PA,58,Northeast,General Practice,2,8:18,9:16
+1000000354,CA,61,South,Oncology,10,10:27,11:28
+1000000355,NC,37,Midwest,Pediatrics,2,1:13,1:50
+1000000356,MI,58,South,Radiology,8,7:11,8:09
+1000000357,NC,39,Midwest,General Practice,0,6:33,7:12
+1000000358,CA,102,West,Neurology,4,1:10,2:52
+1000000359,GA,79,Midwest,Pediatrics,2,4:54,6:13
+1000000360,FL,42,South,Oncology,9,10:33,11:15
+1000000361,NY,100,Northeast,General Practice,4,1:14,2:54
+1000000362,CA,14,Midwest,General Practice,4,4:58,5:12
+1000000363,OH,99,Northeast,Pediatrics,5,7:19,8:58
+1000000364,TX,86,West,Radiology,9,7:17,8:43
+1000000365,GA,118,West,Oncology,5,6:58,8:56
+1000000366,NY,97,Midwest,General Practice,10,7:46,9:23
+1000000367,FL,102,Midwest,Orthopedics,2,10:08,11:50
+1000000368,MI,75,South,Orthopedics,10,4:49,6:04
+1000000369,FL,67,Midwest,Oncology,4,6:59,8:06
+1000000370,TX,113,West,Cardiology,7,6:18,8:11
+1000000371,CA,21,West,Cardiology,5,7:32,7:53
+1000000372,NY,30,South,Neurology,5,11:23,11:53
+1000000373,FL,49,Midwest,Neurology,3,3:30,4:19
+1000000374,NC,101,South,Cardiology,0,8:03,9:44
+1000000375,TX,7,South,Cardiology,8,4:31,4:38
+1000000376,OH,31,South,Radiology,3,1:27,1:58
+1000000377,IL,116,Midwest,Cardiology,8,6:36,8:32
+1000000378,MI,57,Midwest,Radiology,8,9:52,10:49
+1000000379,FL,104,West,Cardiology,3,7:21,9:05
+1000000380,TX,91,South,Neurology,8,3:34,5:05
+1000000381,NY,118,Midwest,Cardiology,3,8:14,10:12
+1000000382,TX,107,West,Radiology,7,12:05,1:52
+1000000383,OH,45,Northeast,Cardiology,8,12:28,1:13
+1000000384,CA,82,Northeast,Radiology,7,8:07,9:29
+1000000385,IL,99,Midwest,Cardiology,6,11:35,1:14
+1000000386,GA,107,West,General Practice,9,6:06,7:53
+1000000387,FL,92,Midwest,Neurology,4,1:21,2:53
+1000000388,TX,60,Northeast,Oncology,8,8:50,9:50
+1000000389,NY,31,Midwest,Neurology,1,12:59,1:30
+1000000390,PA,97,Midwest,Orthopedics,5,5:04,6:41
+1000000391,PA,102,Northeast,Oncology,3,11:34,1:16
+1000000392,CA,118,Midwest,Pediatrics,0,7:15,9:13
+1000000393,PA,108,South,Pediatrics,1,3:10,4:58
+1000000394,FL,18,Midwest,Radiology,5,11:31,11:49
+1000000395,FL,101,West,Cardiology,5,5:07,6:48
+1000000396,FL,46,South,Pediatrics,4,8:37,9:23
+1000000397,NC,84,West,Radiology,8,3:39,5:03
+1000000398,NC,31,West,Radiology,9,9:38,10:09
+1000000399,IL,31,South,General Practice,2,9:47,10:18
+1000000400,IL,40,Northeast,Orthopedics,9,8:54,9:34
+1000000401,TX,70,South,General Practice,1,10:28,11:38
+1000000402,TX,97,Northeast,Radiology,10,5:50,7:27
+1000000403,IL,104,South,Radiology,5,1:08,2:52
+1000000404,IL,79,Midwest,Radiology,7,7:42,9:01
+1000000405,CA,119,Midwest,General Practice,1,6:41,8:40
+1000000406,MI,7,Northeast,Oncology,3,5:31,5:38
+1000000407,GA,67,Midwest,Radiology,8,3:20,4:27
+1000000408,NC,49,Northeast,Pediatrics,5,11:05,11:54
+1000000409,OH,75,South,Neurology,9,3:37,4:52
+1000000410,PA,46,Midwest,Radiology,10,9:44,10:30
+1000000411,IL,92,Midwest,Cardiology,4,5:25,6:57
+1000000412,FL,74,Northeast,Orthopedics,5,3:29,4:43
+1000000413,PA,10,South,Pediatrics,5,9:16,9:26
+1000000414,IL,83,South,Orthopedics,2,2:57,4:20
+1000000415,IL,9,West,Pediatrics,7,6:44,6:53
+1000000416,OH,83,Midwest,Oncology,9,8:39,10:02
+1000000417,GA,59,South,Radiology,7,11:12,12:11
+1000000418,NY,57,Northeast,Cardiology,1,7:33,8:30
+1000000419,CA,72,Northeast,Orthopedics,6,8:55,10:07
+1000000420,IL,109,West,Orthopedics,6,9:53,11:42
+1000000421,FL,77,South,Oncology,1,1:51,3:08
+1000000422,NC,23,South,Oncology,3,6:45,7:08
+1000000423,PA,91,Northeast,Pediatrics,5,11:05,12:36
+1000000424,NC,105,Midwest,Oncology,1,6:06,7:51
+1000000425,NY,22,West,Oncology,3,11:38,12:00
+1000000426,NC,82,West,Cardiology,4,12:20,1:42
+1000000427,IL,56,Midwest,Radiology,6,8:54,9:50
+1000000428,TX,6,Northeast,General Practice,3,10:18,10:24
+1000000429,IL,5,Northeast,Orthopedics,3,9:55,10:00
+1000000430,NC,116,Northeast,Neurology,4,8:32,10:28
+1000000431,PA,111,West,Neurology,4,6:53,8:44
+1000000432,OH,26,Midwest,Oncology,3,8:37,9:03
+1000000433,CA,97,South,Orthopedics,7,7:03,8:40
+1000000434,NC,50,Northeast,Orthopedics,3,7:28,8:18
+1000000435,CA,8,South,Orthopedics,8,5:15,5:23
+1000000436,PA,52,Northeast,General Practice,6,8:02,8:54
+1000000437,GA,74,South,General Practice,10,4:04,5:18
+1000000438,GA,73,South,General Practice,9,12:30,1:43
+1000000439,NY,49,West,General Practice,2,1:32,2:21
+1000000440,MI,55,South,Cardiology,5,7:20,8:15
+1000000441,OH,116,South,Pediatrics,7,1:20,3:16
+1000000442,GA,11,Midwest,Pediatrics,6,11:36,11:47
+1000000443,FL,30,Midwest,Orthopedics,0,12:49,1:19
+1000000444,OH,24,South,Radiology,8,5:00,5:24
+1000000445,MI,89,Northeast,Radiology,8,8:06,9:35
+1000000446,IL,103,South,Radiology,5,5:40,7:23
+1000000447,IL,18,West,General Practice,2,1:51,2:09
+1000000448,PA,56,Midwest,Orthopedics,6,1:47,2:43
+1000000449,NY,94,Northeast,Cardiology,7,10:27,12:01
+1000000450,CA,7,South,Orthopedics,3,3:36,3:43
+1000000451,GA,38,West,Oncology,9,1:26,2:04
+1000000452,NY,6,West,Oncology,3,3:53,3:59
+1000000453,NC,55,West,Pediatrics,3,4:48,5:43
+1000000454,TX,12,South,General Practice,2,7:18,7:30
+1000000455,CA,53,South,Cardiology,10,7:22,8:15
+1000000456,PA,116,Northeast,Cardiology,0,11:20,1:16
+1000000457,PA,60,Midwest,General Practice,8,8:23,9:23
+1000000458,CA,23,Northeast,Pediatrics,6,8:34,8:57
+1000000459,IL,66,South,Radiology,2,7:31,8:37
+1000000460,MI,117,Midwest,Orthopedics,1,6:14,8:11
+1000000461,MI,76,Midwest,Orthopedics,1,9:50,11:06
+1000000462,PA,109,Northeast,Pediatrics,0,8:28,10:17
+1000000463,TX,99,Midwest,General Practice,5,3:43,5:22
+1000000464,IL,110,South,Pediatrics,8,1:29,3:19
+1000000465,GA,97,South,Neurology,2,4:25,6:02
+1000000466,TX,95,West,Radiology,10,1:06,2:41
+1000000467,OH,110,Northeast,Pediatrics,5,10:39,12:29
+1000000468,CA,88,West,Pediatrics,9,9:36,11:04
+1000000469,IL,113,Northeast,Pediatrics,0,10:49,12:42
+1000000470,NC,107,Midwest,Cardiology,5,6:11,7:58
+1000000471,PA,111,Midwest,Oncology,6,4:22,6:13
+1000000472,CA,45,South,General Practice,10,8:03,8:48
+1000000473,OH,94,Midwest,Neurology,3,8:03,9:37
+1000000474,FL,35,Northeast,Oncology,7,6:12,6:47
+1000000475,FL,113,Midwest,Pediatrics,8,6:38,8:31
+1000000476,IL,83,Midwest,General Practice,8,10:58,12:21
+1000000477,NY,115,Midwest,Oncology,5,6:44,8:39
+1000000478,FL,112,Northeast,Orthopedics,10,5:03,6:55
+1000000479,NC,9,West,Neurology,0,11:39,11:48
+1000000480,GA,86,West,General Practice,10,11:09,12:35
+1000000481,MI,38,Northeast,Orthopedics,8,8:32,9:10
+1000000482,IL,56,South,Cardiology,2,1:47,2:43
+1000000483,PA,28,Midwest,Pediatrics,5,1:40,2:08
+1000000484,NY,53,South,Radiology,6,3:48,4:41
+1000000485,GA,5,Northeast,Cardiology,9,5:28,5:33
+1000000486,NY,22,West,Cardiology,7,10:32,10:54
+1000000487,IL,114,Northeast,General Practice,4,7:53,9:47
+1000000488,IL,13,Northeast,Pediatrics,2,11:09,11:22
+1000000489,OH,37,South,Neurology,6,2:14,2:51
+1000000490,FL,19,West,Oncology,1,12:30,12:49
+1000000491,IL,11,South,General Practice,1,3:33,3:44
+1000000492,PA,96,West,Cardiology,8,6:56,8:32
+1000000493,PA,5,Northeast,Orthopedics,2,1:56,2:01
+1000000494,NC,117,West,Neurology,3,2:52,4:49
+1000000495,IL,62,South,General Practice,6,1:28,2:30
+1000000496,CA,15,Northeast,Neurology,7,11:35,11:50
+1000000497,TX,22,Midwest,General Practice,3,8:00,8:22
+1000000498,IL,86,West,Radiology,2,7:16,8:42
+1000000499,TX,38,West,General Practice,10,8:41,9:19
+1000000500,IL,64,South,Cardiology,9,7:21,8:25
+1000000501,NY,115,Midwest,Pediatrics,2,8:05,10:00
+1000000502,NC,85,South,Radiology,10,3:10,4:35
+1000000503,GA,12,Northeast,Oncology,6,6:10,6:22
+1000000504,IL,27,Northeast,Radiology,5,12:41,1:08
+1000000505,CA,93,Northeast,Cardiology,3,7:34,9:07
+1000000506,NY,94,West,Pediatrics,5,6:02,7:36
+1000000507,PA,66,West,Radiology,2,7:10,8:16
+1000000508,MI,46,Northeast,General Practice,8,7:59,8:45
+1000000509,CA,67,South,Pediatrics,4,11:07,12:14
+1000000510,IL,80,South,Cardiology,7,9:14,10:34
+1000000511,TX,55,South,Oncology,3,8:50,9:45
+1000000512,GA,22,South,Oncology,3,9:53,10:15
+1000000513,FL,29,Northeast,Neurology,0,2:28,2:57
+1000000514,CA,18,South,Neurology,7,6:44,7:02
+1000000515,GA,98,South,Neurology,2,9:59,11:37
+1000000516,NY,13,Northeast,Oncology,5,6:53,7:06
+1000000517,GA,20,West,Radiology,10,12:20,12:40
+1000000518,FL,24,Northeast,Neurology,3,8:52,9:16
+1000000519,IL,112,Northeast,General Practice,0,11:34,1:26
+1000000520,CA,10,West,Pediatrics,2,3:07,3:17
+1000000521,TX,88,South,General Practice,1,9:32,11:00
+1000000522,GA,110,Northeast,General Practice,5,10:30,12:20
+1000000523,TX,101,West,Orthopedics,7,10:45,12:26
+1000000524,IL,112,South,Oncology,2,8:16,10:08
+1000000525,FL,54,South,Cardiology,7,4:37,5:31
+1000000526,MI,69,South,Orthopedics,5,5:57,7:06
+1000000527,IL,37,South,Neurology,3,7:04,7:41
+1000000528,MI,48,West,Pediatrics,8,4:04,4:52
+1000000529,NC,99,Northeast,Radiology,4,6:35,8:14
+1000000530,GA,85,West,Orthopedics,2,11:50,1:15
+1000000531,GA,58,West,General Practice,5,6:41,7:39
+1000000532,NC,120,Midwest,General Practice,8,3:30,5:30
+1000000533,IL,89,West,Orthopedics,0,11:41,1:10
+1000000534,MI,81,South,Pediatrics,6,2:14,3:35
+1000000535,MI,115,West,General Practice,5,12:37,2:32
+1000000536,NY,92,Northeast,Cardiology,4,3:09,4:41
+1000000537,CA,93,West,General Practice,8,4:11,5:44
+1000000538,OH,15,Midwest,Radiology,4,11:43,11:58
+1000000539,CA,23,West,Radiology,7,9:02,9:25
+1000000540,TX,109,Northeast,Oncology,0,6:05,7:54
+1000000541,MI,115,Northeast,Neurology,4,12:58,2:53
+1000000542,OH,101,West,Neurology,4,12:47,2:28
+1000000543,IL,30,Northeast,Neurology,6,5:37,6:07
+1000000544,NC,74,Midwest,Oncology,1,7:56,9:10
+1000000545,NY,87,West,Cardiology,1,1:35,3:02
+1000000546,OH,68,West,Cardiology,10,11:12,12:20
+1000000547,MI,26,South,Cardiology,0,6:00,6:26
+1000000548,TX,102,West,Pediatrics,8,8:19,10:01
+1000000549,NY,74,Midwest,Orthopedics,3,12:07,1:21
+1000000550,GA,31,Midwest,Orthopedics,2,9:43,10:14
+1000000551,GA,24,West,Pediatrics,2,8:10,8:34
+1000000552,MI,78,Northeast,Pediatrics,10,8:50,10:08
+1000000553,IL,61,South,Orthopedics,2,7:05,8:06
+1000000554,FL,80,West,Pediatrics,1,4:47,6:07
+1000000555,CA,105,West,Orthopedics,3,6:05,7:50
+1000000556,FL,81,West,Cardiology,1,3:48,5:09
+1000000557,GA,34,Midwest,Oncology,1,8:03,8:37
+1000000558,NY,25,South,Pediatrics,9,8:05,8:30
+1000000559,CA,110,West,Oncology,9,6:47,8:37
+1000000560,MI,117,West,Radiology,2,5:18,7:15
+1000000561,OH,86,Northeast,Cardiology,5,3:44,5:10
+1000000562,CA,76,Northeast,Orthopedics,2,7:32,8:48
+1000000563,TX,80,West,General Practice,0,6:27,7:47
+1000000564,FL,88,Northeast,Pediatrics,6,10:08,11:36
+1000000565,NY,47,Midwest,Neurology,1,10:44,11:31
+1000000566,CA,58,Midwest,General Practice,8,8:01,8:59
+1000000567,CA,26,West,Neurology,4,11:34,12:00
+1000000568,NC,21,West,Orthopedics,3,12:23,12:44
+1000000569,PA,37,South,Cardiology,7,7:17,7:54
+1000000570,OH,83,West,General Practice,1,2:56,4:19
+1000000571,OH,9,Northeast,Neurology,1,8:58,9:07
+1000000572,OH,31,West,Orthopedics,7,9:11,9:42
+1000000573,PA,29,South,General Practice,3,9:33,10:02
+1000000574,OH,46,West,General Practice,8,6:25,7:11
+1000000575,MI,18,West,Neurology,2,2:24,2:42
+1000000576,NC,69,South,Oncology,2,6:44,7:53
+1000000577,PA,15,Northeast,Oncology,10,11:53,12:08
+1000000578,NY,17,Northeast,Cardiology,2,10:39,10:56
+1000000579,IL,83,West,Orthopedics,8,8:42,10:05
+1000000580,NY,68,South,Radiology,8,6:12,7:20
+1000000581,TX,102,Midwest,General Practice,10,1:51,3:33
+1000000582,TX,47,Midwest,Radiology,2,12:52,1:39
+1000000583,TX,60,Midwest,Orthopedics,3,7:30,8:30
+1000000584,NY,93,West,Orthopedics,1,6:10,7:43
+1000000585,TX,69,Northeast,Orthopedics,1,1:08,2:17
+1000000586,CA,17,South,Cardiology,3,3:20,3:37
+1000000587,FL,23,Midwest,Oncology,0,7:54,8:17
+1000000588,FL,72,South,Neurology,10,7:18,8:30
+1000000589,NY,12,Northeast,Pediatrics,6,11:00,11:12
+1000000590,MI,71,West,Radiology,0,11:01,12:12
+1000000591,PA,87,West,Cardiology,2,7:53,9:20
+1000000592,GA,120,Northeast,General Practice,7,6:56,8:56
+1000000593,MI,90,Northeast,Cardiology,3,2:29,3:59
+1000000594,NY,63,Northeast,Oncology,4,1:01,2:04
+1000000595,MI,87,Northeast,Neurology,2,2:03,3:30
+1000000596,PA,63,Northeast,Orthopedics,9,2:23,3:26
+1000000597,PA,101,South,Oncology,7,8:19,10:00
+1000000598,FL,67,Midwest,Orthopedics,8,7:00,8:07
+1000000599,MI,45,South,Radiology,4,6:28,7:13
+1000000600,NC,65,West,Orthopedics,4,3:15,4:20
+1000000601,NC,64,Midwest,Pediatrics,1,1:18,2:22
+1000000602,OH,26,Northeast,Neurology,0,8:15,8:41
+1000000603,OH,59,Midwest,Pediatrics,9,8:37,9:36
+1000000604,FL,43,South,Oncology,9,11:06,11:49
+1000000605,IL,117,Northeast,Cardiology,2,12:46,2:43
+1000000606,CA,34,West,Radiology,2,8:00,8:34
+1000000607,IL,67,West,Cardiology,6,10:23,11:30
+1000000608,CA,17,Midwest,General Practice,6,2:56,3:13
+1000000609,IL,16,South,Neurology,3,6:21,6:37
+1000000610,NY,27,Northeast,Orthopedics,6,12:12,12:39
+1000000611,IL,67,Northeast,Oncology,3,9:54,11:01
+1000000612,NY,80,Northeast,Pediatrics,5,11:17,12:37
+1000000613,NY,86,Midwest,Orthopedics,6,5:43,7:09
+1000000614,GA,47,Northeast,Radiology,8,9:38,10:25
+1000000615,PA,28,Midwest,Oncology,4,1:56,2:24
+1000000616,PA,5,Northeast,Oncology,0,7:37,7:42
+1000000617,GA,9,Northeast,Radiology,8,6:25,6:34
+1000000618,MI,15,Northeast,Orthopedics,4,7:32,7:47
+1000000619,FL,31,Northeast,Oncology,10,7:24,7:55
+1000000620,TX,91,Northeast,Radiology,0,4:58,6:29
+1000000621,OH,43,South,Oncology,0,2:13,2:56
+1000000622,PA,56,Northeast,Cardiology,6,2:04,3:00
+1000000623,MI,49,West,Oncology,5,2:54,3:43
+1000000624,OH,28,Northeast,Cardiology,2,11:06,11:34
+1000000625,TX,74,South,Pediatrics,4,12:13,1:27
+1000000626,NC,104,Midwest,Cardiology,8,4:46,6:30
+1000000627,PA,90,Midwest,Radiology,7,7:04,8:34
+1000000628,NC,94,Midwest,Radiology,2,11:31,1:05
+1000000629,TX,110,West,Pediatrics,8,8:21,10:11
+1000000630,GA,104,West,Neurology,3,10:47,12:31
+1000000631,OH,10,West,General Practice,3,1:29,1:39
+1000000632,FL,74,South,Oncology,9,12:37,1:51
+1000000633,TX,11,West,Cardiology,5,6:22,6:33
+1000000634,IL,89,Midwest,General Practice,5,7:35,9:04
+1000000635,CA,63,Midwest,Neurology,6,10:27,11:30
+1000000636,IL,99,Northeast,Cardiology,9,7:39,9:18
+1000000637,CA,29,Northeast,Radiology,5,8:05,8:34
+1000000638,NY,62,Midwest,Radiology,6,7:16,8:18
+1000000639,PA,96,West,Pediatrics,10,12:58,2:34
+1000000640,NC,49,West,Radiology,5,1:32,2:21
+1000000641,FL,37,South,Cardiology,8,6:47,7:24
+1000000642,GA,16,South,Cardiology,1,7:41,7:57
+1000000643,CA,112,South,Pediatrics,0,8:26,10:18
+1000000644,OH,69,Northeast,General Practice,2,7:16,8:25
+1000000645,FL,6,Midwest,Pediatrics,5,9:04,9:10
+1000000646,TX,87,West,Pediatrics,5,11:59,1:26
+1000000647,NY,34,West,General Practice,2,1:02,1:36
+1000000648,OH,36,Midwest,General Practice,10,11:42,12:18
+1000000649,OH,47,South,Oncology,0,1:09,1:56
+1000000650,CA,27,West,Oncology,6,7:51,8:18
+1000000651,PA,105,Midwest,Oncology,7,7:39,9:24
+1000000652,NC,91,South,General Practice,4,7:23,8:54
+1000000653,GA,105,Midwest,General Practice,10,8:55,10:40
+1000000654,FL,103,Northeast,General Practice,10,6:48,8:31
+1000000655,GA,70,Midwest,Neurology,0,7:33,8:43
+1000000656,OH,26,Northeast,Pediatrics,6,7:21,7:47
+1000000657,NC,99,Northeast,Cardiology,8,8:45,10:24
+1000000658,MI,105,Midwest,Radiology,10,7:43,9:28
+1000000659,CA,66,West,Pediatrics,5,8:04,9:10
+1000000660,CA,63,West,Radiology,8,7:44,8:47
+1000000661,NC,60,South,Neurology,4,8:36,9:36
+1000000662,TX,90,Midwest,Cardiology,9,8:37,10:07
+1000000663,MI,62,Midwest,Oncology,10,8:23,9:25
+1000000664,CA,23,West,General Practice,7,6:44,7:07
+1000000665,FL,80,South,Pediatrics,1,7:49,9:09
+1000000666,MI,63,South,General Practice,1,1:50,2:53
+1000000667,PA,65,Northeast,Radiology,1,1:18,2:23
+1000000668,NC,106,South,Cardiology,7,8:56,10:42
+1000000669,IL,76,West,Pediatrics,10,12:41,1:57
+1000000670,MI,81,Northeast,Cardiology,6,9:28,10:49
+1000000671,NY,49,Midwest,Orthopedics,8,9:27,10:16
+1000000672,PA,31,West,Pediatrics,2,4:46,5:17
+1000000673,PA,19,Midwest,General Practice,8,1:31,1:50
+1000000674,NC,11,Midwest,Cardiology,5,7:34,7:45
+1000000675,GA,15,West,Radiology,2,9:22,9:37
+1000000676,IL,67,Northeast,Cardiology,10,4:31,5:38
+1000000677,IL,89,South,General Practice,9,8:36,10:05
+1000000678,TX,86,Midwest,Pediatrics,10,7:27,8:53
+1000000679,NY,67,West,Oncology,4,4:01,5:08
+1000000680,MI,87,West,General Practice,0,2:52,4:19
+1000000681,GA,55,West,Neurology,6,10:22,11:17
+1000000682,NY,26,West,Radiology,6,7:41,8:07
+1000000683,TX,96,Northeast,Cardiology,1,5:32,7:08
+1000000684,OH,62,Midwest,Pediatrics,2,6:04,7:06
+1000000685,FL,35,Northeast,Oncology,4,5:33,6:08
+1000000686,NY,114,South,Radiology,3,6:35,8:29
+1000000687,OH,61,Midwest,Pediatrics,0,8:34,9:35
+1000000688,PA,53,West,Neurology,7,5:49,6:42
+1000000689,NY,25,West,Cardiology,6,8:47,9:12
+1000000690,OH,54,Midwest,Pediatrics,7,6:28,7:22
+1000000691,NC,24,South,Neurology,0,7:46,8:10
+1000000692,MI,76,Midwest,Neurology,5,3:25,4:41
+1000000693,MI,39,Northeast,Cardiology,5,2:08,2:47
+1000000694,MI,74,Northeast,General Practice,8,11:36,12:50
+1000000695,PA,25,West,Neurology,0,4:35,5:00
+1000000696,IL,110,South,Oncology,9,5:13,7:03
+1000000697,NC,30,South,Orthopedics,2,9:55,10:25
+1000000698,PA,35,Midwest,Orthopedics,9,12:45,1:20
+1000000699,CA,103,South,Pediatrics,6,5:05,6:48
+1000000700,PA,104,South,Cardiology,1,10:38,12:22
+1000000701,OH,68,West,Neurology,2,6:29,7:37
+1000000702,IL,111,Northeast,Orthopedics,9,10:00,11:51
+1000000703,NC,5,Midwest,Oncology,3,3:34,3:39
+1000000704,CA,88,Northeast,Neurology,9,12:07,1:35
+1000000705,GA,116,West,Orthopedics,0,8:14,10:10
+1000000706,OH,47,Midwest,Radiology,3,10:52,11:39
+1000000707,TX,105,Midwest,General Practice,0,5:44,7:29
+1000000708,GA,41,Midwest,Radiology,5,12:28,1:09
+1000000709,IL,60,Midwest,Orthopedics,4,3:41,4:41
+1000000710,TX,43,South,Neurology,2,1:44,2:27
+1000000711,IL,86,West,Pediatrics,2,8:09,9:35
+1000000712,MI,71,Northeast,Radiology,1,7:18,8:29
+1000000713,PA,20,Midwest,Neurology,3,6:49,7:09
+1000000714,CA,7,Northeast,Pediatrics,6,5:13,5:20
+1000000715,OH,8,West,Neurology,5,6:11,6:19
+1000000716,PA,117,Northeast,Pediatrics,0,4:56,6:53
+1000000717,FL,93,Northeast,Oncology,2,5:46,7:19
+1000000718,IL,76,West,Orthopedics,9,11:35,12:51
+1000000719,OH,75,South,Neurology,9,9:00,10:15
+1000000720,PA,59,Midwest,Orthopedics,4,12:37,1:36
+1000000721,PA,111,West,Oncology,5,7:15,9:06
+1000000722,MI,67,Midwest,Orthopedics,9,8:56,10:03
+1000000723,NY,75,West,Cardiology,4,6:00,7:15
+1000000724,TX,101,Northeast,Pediatrics,2,4:52,6:33
+1000000725,MI,35,South,General Practice,1,8:49,9:24
+1000000726,NY,36,Northeast,General Practice,5,9:19,9:55
+1000000727,MI,47,Midwest,Pediatrics,8,9:57,10:44
+1000000728,CA,68,South,General Practice,10,6:48,7:56
+1000000729,TX,88,Midwest,General Practice,5,5:04,6:32
+1000000730,NC,99,Midwest,Pediatrics,7,11:47,1:26
+1000000731,FL,120,South,General Practice,4,5:24,7:24
+1000000732,PA,39,South,Oncology,3,6:29,7:08
+1000000733,CA,36,Northeast,Oncology,7,8:16,8:52
+1000000734,NY,48,Northeast,Cardiology,8,8:35,9:23
+1000000735,FL,5,Midwest,Oncology,1,8:30,8:35
+1000000736,TX,52,Northeast,General Practice,6,6:09,7:01
+1000000737,NC,50,Northeast,Cardiology,10,10:51,11:41
+1000000738,MI,85,Northeast,Pediatrics,8,9:23,10:48
+1000000739,FL,51,Midwest,Neurology,7,6:54,7:45
+1000000740,OH,86,West,Cardiology,3,4:43,6:09
+1000000741,MI,58,Northeast,Neurology,4,8:45,9:43
+1000000742,PA,109,West,General Practice,8,6:32,8:21
+1000000743,NY,52,Northeast,Radiology,10,6:50,7:42
+1000000744,MI,77,Northeast,Neurology,3,6:16,7:33
+1000000745,TX,95,Northeast,Neurology,6,12:41,2:16
+1000000746,IL,44,Midwest,General Practice,6,8:56,9:40
+1000000747,IL,32,Midwest,Orthopedics,5,9:22,9:54
+1000000748,IL,70,West,General Practice,2,7:23,8:33
+1000000749,CA,78,West,General Practice,10,7:01,8:19
+1000000750,PA,66,Northeast,Cardiology,0,6:11,7:17
+1000000751,OH,45,South,Oncology,2,11:12,11:57
+1000000752,FL,45,South,Pediatrics,7,2:17,3:02
+1000000753,FL,68,West,General Practice,2,1:52,3:00
+1000000754,NC,73,Northeast,Cardiology,7,8:20,9:33
+1000000755,GA,112,Midwest,Pediatrics,0,6:33,8:25
+1000000756,FL,44,Midwest,Neurology,8,3:23,4:07
+1000000757,MI,59,South,General Practice,7,1:09,2:08
+1000000758,CA,27,Midwest,Pediatrics,7,7:42,8:09
+1000000759,OH,75,West,General Practice,2,8:46,10:01
+1000000760,GA,38,West,Cardiology,7,2:16,2:54
+1000000761,TX,98,South,Pediatrics,5,1:34,3:12
+1000000762,PA,53,South,Oncology,7,3:50,4:43
+1000000763,TX,37,Northeast,Radiology,9,6:59,7:36
+1000000764,OH,95,West,Neurology,1,4:25,6:00
+1000000765,OH,51,West,Cardiology,0,2:50,3:41
+1000000766,MI,55,South,Neurology,2,6:26,7:21
+1000000767,TX,84,Northeast,Orthopedics,4,7:09,8:33
+1000000768,TX,11,South,Oncology,1,11:14,11:25
+1000000769,PA,95,West,Radiology,0,1:50,3:25
+1000000770,MI,92,South,Radiology,4,1:25,2:57
+1000000771,IL,79,Northeast,Neurology,3,8:54,10:13
+1000000772,NC,78,South,Pediatrics,5,10:20,11:38
+1000000773,CA,84,Northeast,Radiology,1,3:53,5:17
+1000000774,FL,77,West,General Practice,5,9:44,11:01
+1000000775,NY,50,South,Oncology,9,6:41,7:31
+1000000776,IL,45,West,Oncology,10,1:22,2:07
+1000000777,IL,104,Midwest,Oncology,5,10:15,11:59
+1000000778,PA,61,Midwest,General Practice,0,11:18,12:19
+1000000779,TX,82,South,Oncology,0,9:51,11:13
+1000000780,CA,100,West,Pediatrics,7,12:28,2:08
+1000000781,MI,82,Northeast,Neurology,7,2:22,3:44
+1000000782,OH,85,Midwest,General Practice,10,12:31,1:56
+1000000783,IL,62,Northeast,Orthopedics,4,5:06,6:08
+1000000784,IL,38,South,Cardiology,6,11:14,11:52
+1000000785,NY,7,West,General Practice,0,6:12,6:19
+1000000786,MI,61,Northeast,General Practice,8,8:34,9:35
+1000000787,IL,35,West,Oncology,4,7:09,7:44
+1000000788,PA,34,Midwest,Pediatrics,7,3:34,4:08
+1000000789,OH,54,Midwest,Cardiology,7,3:41,4:35
+1000000790,NY,15,South,Radiology,9,4:32,4:47
+1000000791,FL,55,South,Neurology,6,7:53,8:48
+1000000792,PA,99,Midwest,Cardiology,0,7:16,8:55
+1000000793,PA,35,Midwest,Oncology,8,10:42,11:17
+1000000794,OH,107,South,Neurology,1,7:43,9:30
+1000000795,NC,14,Northeast,Cardiology,8,7:07,7:21
+1000000796,FL,21,West,General Practice,4,6:31,6:52
+1000000797,IL,48,South,Oncology,8,8:19,9:07
+1000000798,FL,53,Midwest,Oncology,8,1:03,1:56
+1000000799,IL,31,South,Pediatrics,8,12:23,12:54
+1000000800,TX,74,Midwest,Pediatrics,2,6:45,7:59
+1000000801,IL,73,Northeast,Orthopedics,5,12:22,1:35
+1000000802,CA,31,Northeast,Pediatrics,9,4:00,4:31
+1000000803,IL,73,West,Oncology,0,4:15,5:28
+1000000804,PA,8,West,Neurology,8,12:09,12:17
+1000000805,NY,76,Northeast,Neurology,9,8:55,10:11
+1000000806,NY,117,South,Neurology,4,1:02,2:59
+1000000807,TX,61,South,Cardiology,2,10:59,12:00
+1000000808,PA,46,Northeast,General Practice,2,8:01,8:47
+1000000809,CA,97,South,Neurology,10,12:17,1:54
+1000000810,OH,98,Northeast,Neurology,10,7:16,8:54
+1000000811,TX,5,Northeast,Cardiology,4,5:10,5:15
+1000000812,IL,77,West,Orthopedics,8,8:55,10:12
+1000000813,PA,77,West,Pediatrics,2,2:33,3:50
+1000000814,NY,45,Northeast,Oncology,10,2:23,3:08
+1000000815,NC,65,Northeast,Pediatrics,6,8:06,9:11
+1000000816,OH,62,West,Orthopedics,7,12:15,1:17
+1000000817,FL,50,South,General Practice,2,7:01,7:51
+1000000818,TX,116,Midwest,General Practice,4,6:37,8:33
+1000000819,MI,116,Midwest,Oncology,0,7:06,9:02
+1000000820,TX,79,West,Oncology,2,8:16,9:35
+1000000821,MI,85,South,Orthopedics,1,8:59,10:24
+1000000822,OH,60,Midwest,Oncology,9,3:49,4:49
+1000000823,CA,116,South,Radiology,1,10:18,12:14
+1000000824,GA,57,West,Neurology,2,5:23,6:20
+1000000825,NY,45,West,Radiology,0,11:37,12:22
+1000000826,NC,29,South,Orthopedics,9,12:49,1:18
+1000000827,CA,35,West,Neurology,9,4:02,4:37
+1000000828,MI,30,Northeast,Orthopedics,0,8:54,9:24
+1000000829,FL,86,West,General Practice,1,5:54,7:20
+1000000830,GA,9,West,Radiology,2,11:53,12:02
+1000000831,MI,108,West,Neurology,2,8:56,10:44
+1000000832,PA,75,South,Orthopedics,5,3:13,4:28
+1000000833,GA,18,Northeast,Pediatrics,10,3:24,3:42
+1000000834,TX,115,West,Pediatrics,5,1:55,3:50
+1000000835,MI,63,Midwest,Pediatrics,7,12:57,2:00
+1000000836,TX,23,Northeast,Orthopedics,0,7:02,7:25
+1000000837,OH,120,South,Radiology,9,1:30,3:30
+1000000838,FL,27,Northeast,Cardiology,2,5:54,6:21
+1000000839,NC,92,West,Cardiology,8,8:24,9:56
+1000000840,CA,85,West,General Practice,5,7:05,8:30
+1000000841,NY,17,Northeast,Neurology,5,1:11,1:28
+1000000842,MI,97,Northeast,Oncology,10,4:01,5:38
+1000000843,IL,107,Northeast,Orthopedics,7,10:35,12:22
+1000000844,MI,31,Northeast,Radiology,5,3:18,3:49
+1000000845,CA,19,West,Oncology,4,1:57,2:16
+1000000846,NY,86,South,Oncology,9,6:56,8:22
+1000000847,OH,67,Northeast,Oncology,4,8:22,9:29
+1000000848,OH,24,Northeast,General Practice,6,1:39,2:03
+1000000849,OH,33,Midwest,Orthopedics,7,7:19,7:52
+1000000850,OH,111,West,Orthopedics,4,11:33,1:24
+1000000851,OH,28,Northeast,Neurology,4,4:53,5:21
+1000000852,IL,39,West,Radiology,9,11:14,11:53
+1000000853,NC,86,Northeast,Radiology,2,1:37,3:03
+1000000854,OH,55,Midwest,Cardiology,2,12:24,1:19
+1000000855,NC,55,Northeast,Oncology,2,9:48,10:43
+1000000856,GA,67,West,Oncology,8,8:49,9:56
+1000000857,PA,68,West,Oncology,9,7:27,8:35
+1000000858,GA,98,South,Oncology,6,11:08,12:46
+1000000859,TX,111,West,General Practice,10,3:47,5:38
+1000000860,MI,56,Northeast,Orthopedics,1,3:23,4:19
+1000000861,IL,110,South,Oncology,6,8:28,10:18
+1000000862,TX,96,Midwest,Radiology,10,4:52,6:28
+1000000863,PA,45,Northeast,Cardiology,5,10:30,11:15
+1000000864,FL,77,Midwest,Oncology,7,6:00,7:17
+1000000865,PA,120,Midwest,Cardiology,3,5:06,7:06
+1000000866,MI,120,Northeast,Pediatrics,7,6:04,8:04
+1000000867,PA,78,South,Orthopedics,8,8:53,10:11
+1000000868,PA,93,West,Cardiology,3,3:06,4:39
+1000000869,MI,68,South,Radiology,3,7:56,9:04
+1000000870,GA,101,Midwest,Cardiology,2,5:51,7:32
+1000000871,GA,15,Midwest,Oncology,0,11:58,12:13
+1000000872,NC,101,West,Orthopedics,9,3:33,5:14
+1000000873,PA,40,Midwest,Cardiology,10,9:14,9:54
+1000000874,IL,111,Northeast,General Practice,3,10:03,11:54
+1000000875,FL,28,Northeast,Neurology,9,2:48,3:16
+1000000876,PA,69,South,Radiology,1,5:50,6:59
+1000000877,GA,102,Northeast,Cardiology,10,5:55,7:37
+1000000878,TX,65,South,Neurology,1,7:31,8:36
+1000000879,IL,115,Midwest,Neurology,5,7:39,9:34
+1000000880,NC,94,South,Radiology,2,8:28,10:02
+1000000881,MI,97,Midwest,Neurology,7,1:41,3:18
+1000000882,CA,119,West,Neurology,10,4:55,6:54
+1000000883,OH,85,Midwest,Oncology,2,4:29,5:54
+1000000884,IL,17,West,General Practice,3,3:58,4:15
+1000000885,FL,98,Midwest,Oncology,4,10:35,12:13
+1000000886,CA,82,Midwest,Radiology,10,8:15,9:37
+1000000887,CA,45,Midwest,Neurology,0,3:34,4:19
+1000000888,NC,45,South,Cardiology,7,1:15,2:00
+1000000889,CA,114,Northeast,Neurology,1,11:42,1:36
+1000000890,TX,96,South,Neurology,6,2:25,4:01
+1000000891,NC,113,Midwest,Oncology,5,7:47,9:40
+1000000892,MI,86,West,Orthopedics,9,1:25,2:51
+1000000893,IL,17,Midwest,Orthopedics,6,1:37,1:54
+1000000894,NY,22,West,Oncology,4,2:18,2:40
+1000000895,IL,48,West,Oncology,7,10:40,11:28
+1000000896,IL,64,West,Pediatrics,1,6:27,7:31
+1000000897,OH,50,Northeast,Cardiology,1,6:12,7:02
+1000000898,OH,62,Midwest,General Practice,2,3:27,4:29
+1000000899,NC,41,West,Orthopedics,4,7:54,8:35
+1000000900,GA,66,Midwest,Cardiology,7,6:29,7:35
+1000000901,OH,101,South,Orthopedics,8,6:01,7:42
+1000000902,PA,7,South,Cardiology,0,9:11,9:18
+1000000903,GA,49,South,Orthopedics,3,12:41,1:30
+1000000904,GA,110,Midwest,Pediatrics,1,2:57,4:47
+1000000905,FL,106,West,Cardiology,2,11:57,1:43
+1000000906,GA,94,West,Neurology,5,10:52,12:26
+1000000907,PA,34,Northeast,Radiology,0,8:40,9:14
+1000000908,FL,112,West,Orthopedics,1,6:41,8:33
+1000000909,PA,20,West,Neurology,3,11:43,12:03
+1000000910,NC,44,Midwest,Cardiology,8,3:58,4:42
+1000000911,TX,100,West,Neurology,3,6:38,8:18
+1000000912,GA,69,Midwest,General Practice,4,5:21,6:30
+1000000913,MI,86,Midwest,General Practice,2,12:49,2:15
+1000000914,GA,106,South,Radiology,9,1:52,3:38
+1000000915,GA,120,Northeast,Neurology,5,11:46,1:46
+1000000916,CA,119,West,Pediatrics,0,2:18,4:17
+1000000917,CA,90,Northeast,Orthopedics,2,7:59,9:29
+1000000918,FL,106,Midwest,Pediatrics,7,5:21,7:07
+1000000919,CA,46,Northeast,Orthopedics,8,5:17,6:03
+1000000920,FL,105,Northeast,Orthopedics,2,12:04,1:49
+1000000921,OH,89,South,Cardiology,10,11:09,12:38
+1000000922,GA,102,West,Radiology,6,7:10,8:52
+1000000923,FL,66,Midwest,Cardiology,7,7:48,8:54
+1000000924,IL,80,South,Radiology,8,12:24,1:44
+1000000925,NY,103,Midwest,Pediatrics,4,2:06,3:49
+1000000926,CA,79,Northeast,Neurology,8,6:26,7:45
+1000000927,TX,93,Midwest,Orthopedics,3,8:55,10:28
+1000000928,PA,45,Midwest,Oncology,8,9:57,10:42
+1000000929,NY,60,West,Pediatrics,0,3:18,4:18
+1000000930,FL,5,West,Radiology,6,6:15,6:20
+1000000931,NY,76,Northeast,Radiology,6,3:15,4:31
+1000000932,FL,108,Northeast,Neurology,7,10:58,12:46
+1000000933,OH,10,Northeast,Cardiology,1,11:04,11:14
+1000000934,MI,92,Northeast,Radiology,10,7:52,9:24
+1000000935,PA,70,South,Pediatrics,0,2:28,3:38
+1000000936,OH,58,Midwest,Pediatrics,5,1:34,2:32
+1000000937,NY,57,Northeast,Orthopedics,8,6:36,7:33
+1000000938,TX,96,West,Radiology,9,1:18,2:54
+1000000939,NY,63,Midwest,Orthopedics,9,2:26,3:29
+1000000940,NC,103,West,Oncology,8,4:36,6:19
+1000000941,NY,100,Northeast,Oncology,0,6:21,8:01
+1000000942,MI,76,South,Radiology,2,2:18,3:34
+1000000943,GA,107,Northeast,Cardiology,9,6:18,8:05
+1000000944,IL,70,West,Pediatrics,7,5:16,6:26
+1000000945,TX,8,West,Cardiology,5,1:22,1:30
+1000000946,IL,14,South,General Practice,7,7:52,8:06
+1000000947,FL,70,West,Oncology,6,7:46,8:56
+1000000948,NC,66,Midwest,Orthopedics,2,11:57,1:03
+1000000949,IL,99,Midwest,Neurology,9,11:34,1:13
+1000000950,OH,31,West,Radiology,10,6:15,6:46
+1000000951,NC,97,West,Orthopedics,10,9:06,10:43
+1000000952,NC,118,South,Oncology,6,12:01,1:59
+1000000953,OH,36,Midwest,Radiology,0,10:47,11:23
+1000000954,NC,76,South,Cardiology,5,8:53,10:09
+1000000955,MI,108,West,Oncology,2,2:42,4:30
+1000000956,GA,96,Midwest,Orthopedics,3,10:46,12:22
+1000000957,FL,24,West,Neurology,6,2:39,3:03
+1000000958,GA,10,West,General Practice,7,4:46,4:56
+1000000959,NY,89,Midwest,Cardiology,0,9:21,10:50
+1000000960,FL,63,South,Pediatrics,0,10:03,11:06
+1000000961,IL,61,South,Neurology,1,9:09,10:10
+1000000962,PA,32,Midwest,Cardiology,2,6:33,7:05
+1000000963,PA,36,South,Radiology,4,6:31,7:07
+1000000964,NC,84,West,Pediatrics,7,5:35,6:59
+1000000965,FL,54,Midwest,Oncology,3,12:21,1:15
+1000000966,OH,7,South,Oncology,6,6:01,6:08
+1000000967,TX,36,South,Radiology,2,11:02,11:38
+1000000968,NY,18,Northeast,Radiology,9,11:44,12:02
+1000000969,FL,54,South,Radiology,8,4:45,5:39
+1000000970,FL,77,South,General Practice,2,7:50,9:07
+1000000971,IL,82,West,Pediatrics,5,1:16,2:38
+1000000972,MI,28,Midwest,Oncology,10,8:41,9:09
+1000000973,TX,57,Midwest,Pediatrics,4,7:22,8:19
+1000000974,IL,101,Northeast,Oncology,6,7:23,9:04
+1000000975,IL,66,West,Neurology,5,5:47,6:53
+1000000976,CA,77,West,Oncology,5,2:27,3:44
+1000000977,OH,99,Northeast,Neurology,2,3:52,5:31
+1000000978,MI,31,Northeast,Neurology,9,10:52,11:23
+1000000979,IL,30,Northeast,Oncology,1,12:20,12:50
+1000000980,TX,111,Northeast,Pediatrics,9,7:39,9:30
+1000000981,NC,112,West,Radiology,0,8:45,10:37
+1000000982,GA,11,Midwest,Orthopedics,0,6:37,6:48
+1000000983,NY,7,South,General Practice,6,10:44,10:51
+1000000984,FL,20,Northeast,Radiology,0,8:51,9:11
+1000000985,NY,30,Northeast,Radiology,8,9:46,10:16
+1000000986,MI,59,West,General Practice,10,8:53,9:52
+1000000987,NY,100,West,Pediatrics,7,8:11,9:51
+1000000988,NC,19,South,Orthopedics,10,6:39,6:58
+1000000989,GA,87,Midwest,Pediatrics,9,4:09,5:36
+1000000990,NY,105,South,Oncology,4,6:40,8:25
+1000000991,NY,33,Midwest,Neurology,6,7:53,8:26
+1000000992,FL,26,West,Pediatrics,4,8:05,8:31
+1000000993,NC,46,Northeast,General Practice,9,4:37,5:23
+1000000994,PA,50,West,Oncology,9,6:28,7:18
+1000000995,PA,60,West,Neurology,0,11:54,12:54
+1000000996,NY,43,Midwest,Neurology,8,5:09,5:52
+1000000997,CA,62,Northeast,Cardiology,1,6:44,7:46
+1000000998,NY,103,Midwest,Oncology,6,5:21,7:04
+1000000999,PA,53,West,Orthopedics,2,2:01,2:54
