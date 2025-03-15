@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Availability_Survey/static/css/main.e6c13ad2.css",
+    "main.js": "/Availability_Survey/static/js/main.1e5a6c3e.js",
+    "static/js/453.1c4edca3.chunk.js": "/Availability_Survey/static/js/453.1c4edca3.chunk.js",
+    "index.html": "/Availability_Survey/index.html",
+    "main.e6c13ad2.css.map": "/Availability_Survey/static/css/main.e6c13ad2.css.map",
+    "main.1e5a6c3e.js.map": "/Availability_Survey/static/js/main.1e5a6c3e.js.map",
+    "453.1c4edca3.chunk.js.map": "/Availability_Survey/static/js/453.1c4edca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e5a6c3e.js"
+  ]
+}
